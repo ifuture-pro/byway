@@ -1,0 +1,18 @@
+{
+    "name": "V2Ray",
+    "description": "Deploy V2ray on Heroku.",
+    "keywords": ["V2Ray"],
+    "env": {
+        "ID": {
+            "description": "UUID",
+            "value": "0aa1fc48-5107-44e8-a92a-74ef9501f955"
+        },
+        "WSPATH": {
+            "description": "WebSocket Path",
+            "value": "/"
+        }
+    },
+    "website": "https://github.com/ifuture-pro",
+    "repository": "https://github.com/ifuture-pro/v2ray4heroku",
+    "stack": "container"
+}
